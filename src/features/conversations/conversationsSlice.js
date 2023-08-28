@@ -3,7 +3,7 @@ import { createSlice } from "@reduxjs/toolkit";
 const initialState = {};
 
 const conversationsSlice = createSlice({
-  name: "auth",
+  name: "conversations",
   initialState,
   reducers: {},
 });
