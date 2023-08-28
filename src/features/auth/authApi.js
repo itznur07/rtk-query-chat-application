@@ -63,7 +63,6 @@ export const authApi = apiSlice.injectEndpoints({
           // do noting
         }
       },
-
     }),
   }),
 });
